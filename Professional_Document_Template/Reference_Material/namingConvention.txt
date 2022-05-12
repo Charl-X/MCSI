@@ -1,0 +1,16 @@
+Naming Convention
+
+	Use the following name convention: 
+	[KEYWORD] - [TITLE] - v[VERSION].[EXTENSION]
+
+Keywords
+
+	A good keyword helps instructors understand the type of document the file is. For example: REPORT, BLOGPOST, WHITEPAPER etc.
+
+Title
+
+	A good title helps instructors know which exercise they are reviewing. In the field, it's also a simple, concise name that helps people what the document is without having to open it.
+
+Version
+
+	Make sure to version your documents. We recommend the following method: [n1].[n2].[n3] where 'n' is a number. n1 is a major version, n2 a minor version and n3 an updated draft. When you work locally on your computer, you update n3 to keep track of your document's version. Then, when you submit a first draft, you update n2. Finally, once you've passed and your document can be finalised, then you update n1. For example: v0.0.1, v0.0.2, v.0.1.1, v1.0.0 etc.
